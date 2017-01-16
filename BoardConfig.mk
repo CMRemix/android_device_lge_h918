@@ -22,7 +22,7 @@ DEVICE_PATH := device/lge/h918
 TARGET_OTA_ASSERT_DEVICE := h918
 
 # Kernel
-TARGET_KERNEL_CONFIG := cyanogenmod_h918_defconfig
+TARGET_KERNEL_CONFIG := cmremix_h918_defconfig
 
 # inherit from the proprietary version
 -include vendor/lge/h918/BoardConfigVendor.mk
